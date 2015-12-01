@@ -1,0 +1,30 @@
+
+C:\Users\dvt00036\Documents\Work\Projects\sails\Chat>node  "C:\Users\dvt00036\AppData\Roaming\npm\\node_modules\sails\bin\sails.js" username:"Frans", password:"mine"}); 
+
+  Usage: sails.js [command]
+
+  Commands:
+
+    version               
+    lift [options]        
+    new [options] [path_to_new_app]
+    generate              
+    console               
+    consle                
+    consloe               
+    c                     
+    www                   
+    debug                 
+    configure             
+    help                  
+
+  Options:
+
+    -h, --help     output usage information
+    -v, --version  output the version number
+    --silent       
+    --verbose      
+    --silly        
+
+
+C:\Users\dvt00036\Documents\Work\Projects\sails\Chat>
